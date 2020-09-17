@@ -12,3 +12,6 @@ Double-click wgetool.exe.
 
 - Windows
 - wget
+
+## License
+MIT
