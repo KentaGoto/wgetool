@@ -15,3 +15,6 @@ Double-click wgetool.exe.
 
 ## License
 MIT
+
+## Author  
+Kenta Goto
