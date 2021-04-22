@@ -1,14 +1,14 @@
 # wgetool
 
-## DESCRIPTION
+## Description
 
 wget the URL described in \* .txt.
 
-## USAGE
+## Usage
 
 Double-click wgetool.exe.
 
-## REQUIREMENTS
+## Requirements
 
 - Windows
 - wget
