@@ -2,7 +2,7 @@
 
 ## Description
 
-This tool are wget the URL listed in the text file (*.txt).
+This tool will wget the URL described in the text file (\*.txt) in parallel processing.
 
 ## Usage
 
