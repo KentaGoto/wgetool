@@ -2,7 +2,7 @@
 
 ## Description
 
-wget the URL described in \* .txt.
+This tool are wget the URL listed in the text file (*.txt).
 
 ## Usage
 
