@@ -6,7 +6,7 @@ wget the URL described in \* .txt.
 
 ## Usage
 
-Double-click wgetool.exe.
+Double-click Run.bat.
 
 ## Requirements
 
